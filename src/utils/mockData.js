@@ -1,12 +1,4 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-
-const styleCard={
-    backgroundColor:"#f0f0f0"
-}
-const imageBaseUrl="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
-
-const resList=[
+export const resList=[
     {
         "info": {
             "id": "5934",
@@ -1713,75 +1705,5 @@ const resList=[
             "type": "WEBLINK"
         }
     }
-]
+];
 
-const Header=()=>{
-    return (
-        <div className="header">
-            <div className="logo-container">
-                <img className="logo" src="https://www.pngall.com/wp-content/uploads/8/Cooking-Recipe.png" />
-            </div>
-            <div className="nav-items">
-                <ul>
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Contact Us</li>
-                    <li>Cart</li>
-                </ul>
-            </div>
-        </div>
-    )
-}
-
-const RestaurantCard = (props) =>{
-    const {resObject}=props;
-    const{
-        name,
-        cloudinaryImageId,
-        costForTwo,
-        cuisines,
-        avgRating,
-        sla
-    }=resObject?.info;
-    
-    return (
-        <div className="res-card" style={styleCard}>
-            <img className="res-logo" src={imageBaseUrl+cloudinaryImageId} />
-            <h3>{name}</h3>
-            <h4>{cuisines.join(", ")}</h4>
-            <h4>{avgRating}</h4>
-            <h4>{sla?.slaString}</h4>
-            <h4>{costForTwo}</h4>
-        </div>
-    )
-}
-
-const Body = ()=>{
-    return (
-        <div className="body">
-            <div className="search">
-                Search
-            </div>
-            <div className="res-container">
-                {
-                    resList.map((restaurant)=>{
-                       return <RestaurantCard key={restaurant.info.id} resObject={restaurant}/>
-                    })
-                }
-            </div>
-        </div>
-    )
-}
-
-const AppLayout= () =>{
-    return (
-        <div className="app">
-            <Header />
-            <Body />
-        </div>
-    )
-}
-
-const root=ReactDOM.createRoot(document.getElementById("root"));
-
-root.render(<AppLayout />)
