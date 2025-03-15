@@ -1,5 +1,55 @@
-h2{
+h2 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     background-color: blueviolet;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.nav-items>ul {
+    display: flex;
+    font-size: 24px;
+
+}
+
+.nav-items>ul>li {
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.search {
+    padding: 10px;
+}
+
+.res-card {
+    padding: 5px;
+    width: 200px;
+    background-color: lightgray;
+    margin: 5px;
+}
+
+.res-card :hover {
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.res-logo {
+    width: 100%;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
 }

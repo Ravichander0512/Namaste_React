@@ -1,0 +1,255 @@
+{
+    "statusCode": 0,
+    "data": {
+        "query": "Biryani",
+        "highlightPreText": "{{",
+        "highlightPostText": "}}",
+        "suggestions": [
+            {
+                "text": "Biryani",
+                "highlightedText": "{{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "Autosuggest/Top%20200%20queries/Biryani.png",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Biryani.png\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FBiryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Biryani",
+                "highlightedText": "{{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "be4ecc0cb447e648a267cca9654bc079",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":46393,\"primaryRestaurantId\":644847,\"cloudinaryId\":\"be4ecc0cb447e648a267cca9654bc079\",\"brandId\":46393,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A46393%2C%22primaryRestaurantId%22%3A644847%2C%22cloudinaryId%22%3A%22be4ecc0cb447e648a267cca9654bc079%22%2C%22brandId%22%3A46393%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "restaurantId": 690741,
+                "disabled": false
+            },
+            {
+                "text": "Mutton Biryani",
+                "highlightedText": "Mutton {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "Autosuggest/Top%20200%20queries/Mutton%20Biryani.png",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Mutton%20Biryani.png\",\"dishFamilyId\":\"846613\",\"dishTypeId\":\"847333\",\"dishFamilyIds\":[\"846613\"],\"dishTypeIds\":[\"847333\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Mutton Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Mutton%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FMutton%2520Biryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishTypeId%22%3A%22847333%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishTypeIds%22%3A%5B%22847333%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Veg Biryani",
+                "highlightedText": "Veg {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "Autosuggest/Top%20200%20queries/Veg%20Biryani.png",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Veg%20Biryani.png\",\"dishFamilyId\":\"846613\",\"dishTypeId\":\"847318\",\"dishFamilyIds\":[\"846613\"],\"dishTypeIds\":[\"847318\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Veg Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Veg%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FVeg%2520Biryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishTypeId%22%3A%22847318%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishTypeIds%22%3A%5B%22847318%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Paneer Biryani",
+                "highlightedText": "Paneer {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "gehax5kizfwncsgkris2",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"VEG\",\"cloudinaryId\":\"gehax5kizfwncsgkris2\",\"dishFamilyId\":\"846613\",\"dishTypeId\":\"847320\",\"dishFamilyIds\":[\"846613\"],\"dishTypeIds\":[\"847320\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Paneer Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Paneer%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22VEG%22%2C%22cloudinaryId%22%3A%22gehax5kizfwncsgkris2%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishTypeId%22%3A%22847320%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishTypeIds%22%3A%5B%22847320%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Chicken Dum Biryani",
+                "highlightedText": "Chicken Dum {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Dish",
+                "cloudinaryId": "Autosuggest/Top%20200%20queries/Chicken%20Dum%20Biryani.png",
+                "tagToDisplayColor": "#686B78",
+                "metadata": "{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NONVEG\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Chicken%20Dum%20Biryani.png\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"],\"dishPreparationStyleIds\":[\"849037\"],\"dishTypeIds\":[\"847329\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}",
+                "cta": {
+                    "text": "Chicken Dum Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Chicken%20Dum%20Biryani&metadata=%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NONVEG%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FChicken%2520Dum%2520Biryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%2C%22dishPreparationStyleIds%22%3A%5B%22849037%22%5D%2C%22dishTypeIds%22%3A%5B%22847329%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Dish",
+                "subCategoryColor": "#686B78"
+            },
+            {
+                "text": "Raju Gari Biryani",
+                "highlightedText": "Raju Gari {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "dunodvswg5nttqsl39kr",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":165947,\"primaryRestaurantId\":248771,\"cloudinaryId\":\"dunodvswg5nttqsl39kr\",\"brandId\":165947,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Raju Gari Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Raju%20Gari%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A165947%2C%22primaryRestaurantId%22%3A248771%2C%22cloudinaryId%22%3A%22dunodvswg5nttqsl39kr%22%2C%22brandId%22%3A165947%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "restaurantId": 1022488,
+                "disabled": false
+            },
+            {
+                "text": "Paradise Biryani",
+                "highlightedText": "Paradise {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/31/7f3c1a51-2e9b-46cd-9638-3024f688cd67_1128.jpg",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":700,\"primaryRestaurantId\":1128,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/1/31/7f3c1a51-2e9b-46cd-9638-3024f688cd67_1128.jpg\",\"brandId\":700,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Paradise Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Paradise%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A700%2C%22primaryRestaurantId%22%3A1128%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F1%2F31%2F7f3c1a51-2e9b-46cd-9638-3024f688cd67_1128.jpg%22%2C%22brandId%22%3A700%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "restaurantId": 7408,
+                "disabled": false
+            },
+            {
+                "text": "Satti Babu Biryani",
+                "highlightedText": "Satti Babu {{Biryani}}",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "iopedxprr3nhibffb3ox",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":254591,\"primaryRestaurantId\":398865,\"cloudinaryId\":\"iopedxprr3nhibffb3ox\",\"brandId\":254591,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Satti Babu Biryani",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Satti%20Babu%20Biryani&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A254591%2C%22primaryRestaurantId%22%3A398865%2C%22cloudinaryId%22%3A%22iopedxprr3nhibffb3ox%22%2C%22brandId%22%3A254591%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "restaurantId": 398865,
+                "disabled": false
+            },
+            {
+                "text": "Potful - Claypot Biryanis",
+                "highlightedText": "Potful - Claypot {{Biryani}}s",
+                "type": "RESTAURANT",
+                "suggestionType": "SUGGESTION_TYPE_LOW_CONFIDENCE",
+                "marketplace": {
+                    "marketplaceId": "SWIGGY",
+                    "businessLineId": "FOOD"
+                },
+                "tagToDisplay": "Restaurant",
+                "tagToDisplayColor": "#686B78",
+                "cloudinaryId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/25/8b61dfd4-ca37-4f70-a4b0-cd35a015cc42_334970.JPG",
+                "metadata": "{\"type\":\"RESTAURANT\",\"data\":{\"parentId\":160121,\"primaryRestaurantId\":334970,\"cloudinaryId\":\"RX_THUMBNAIL/IMAGES/VENDOR/2025/2/25/8b61dfd4-ca37-4f70-a4b0-cd35a015cc42_334970.JPG\",\"brandId\":160121,\"dishFamilyId\":\"846613\",\"enabled_flag\":1},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Restaurant\"}",
+                "cta": {
+                    "text": "Potful - Claypot Biryanis",
+                    "type": "DEEPLINK",
+                    "link": "swiggy://explore?query=Potful%20-%20Claypot%20Biryanis&metadata=%7B%22type%22%3A%22RESTAURANT%22%2C%22data%22%3A%7B%22parentId%22%3A160121%2C%22primaryRestaurantId%22%3A334970%2C%22cloudinaryId%22%3A%22RX_THUMBNAIL%2FIMAGES%2FVENDOR%2F2025%2F2%2F25%2F8b61dfd4-ca37-4f70-a4b0-cd35a015cc42_334970.JPG%22%2C%22brandId%22%3A160121%2C%22dishFamilyId%22%3A%22846613%22%2C%22enabled_flag%22%3A1%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Restaurant%22%7D&marketplace=%7B%22marketplaceId%22%3A%22SWIGGY%22%2C%22businessLineId%22%3A%22FOOD%22%7D"
+                },
+                "category": "Food",
+                "categoryColor": "#686B78",
+                "subCategory": "Restaurant",
+                "subCategoryColor": "#686B78",
+                "restaurantId": 492854,
+                "disabled": false
+            }
+        ],
+        "userIntent": "DEFAULT"
+    },
+    "tid": "cc08fa89-901c-4bcf-adc1-fd5b8be37a1f",
+    "sid": "jh72544b-efba-4b6f-bb8e-ffaf9f122145",
+    "deviceId": "ec17325f-1cd2-1a1d-da3d-8f8394920b47",
+    "csrfToken": "ZnIEtjsksh8f-LRYczNpFfY__kZNyi7JHsG_aO_U"
+}
